@@ -13,7 +13,7 @@ This WeatherApp project is a simple web application built using HTML, Tailwind C
 This WeatherApp utilizes a weather API to fetch weather data. You need to sign up for an API key and replace the placeholder `API_KEY` in the `script.js` file with your actual API key.
 
 
-## Usage
+## Setup Instructions
 
 To use this WeatherApp:
 
